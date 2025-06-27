@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "201026396296",
+    "project_id": "cafeadisyon-ead4c",
+    "storage_bucket": "cafeadisyon-ead4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201026396296:android:a3d9e7a219dba4175f3f3d",
+        "android_client_info": {
+          "package_name": "com.example.cafe_adisyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201026396296-ntaitd8qp5mv0r8n4lf32d678hhrbsam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqopFw1Qc4676LwRTkGw3FrEiYnHeJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201026396296-ntaitd8qp5mv0r8n4lf32d678hhrbsam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201026396296-lp213ap1sgral97ddtbf903hi6bljqhv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafeAdisyon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
