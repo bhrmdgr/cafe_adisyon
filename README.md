@@ -12,7 +12,7 @@ A mobile order management application developed with Flutter for cafes and resta
 - 📤 **Real-Time Order Transfer**  
   - Orders appear instantly on the relevant unit’s screen.
 - 💵 **Billing and Invoice Generation**  
-  - View table accounts, close bills, and generate digital receipts.
+  - View table accounts, close bills
 
 ## 🛠️ Technologies Used
 
@@ -20,6 +20,4 @@ A mobile order management application developed with Flutter for cafes and resta
 - **Firebase** – Real-time database, authentication, and data management  
 - **Material Design** – Modern and clean user interface  
 
-## 🖼️ Screenshots
 
-> 📸 You can include your app's screenshots here for better presentation:
