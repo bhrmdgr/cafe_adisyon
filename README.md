@@ -1,16 +1,25 @@
-# cafe_adisyon
+# ☕ Cafe Order Management App
 
-A new Flutter project.
+A mobile order management application developed with Flutter for cafes and restaurants. It provides efficient tracking of orders, department coordination, and billing processes.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 👤 **Multi-Role Login System**  
+  - Users can log in as **Waiter**, **Bar**, **Kitchen**, or **Manager**.
+- 🍽️ **Table and Order Management**  
+  - Create orders for specific tables.
+  - Orders are automatically routed to the relevant department (bar/kitchen).
+- 📤 **Real-Time Order Transfer**  
+  - Orders appear instantly on the relevant unit’s screen.
+- 💵 **Billing and Invoice Generation**  
+  - View table accounts, close bills, and generate digital receipts.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Mobile app development  
+- **Firebase** – Real-time database, authentication, and data management  
+- **Material Design** – Modern and clean user interface  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+> 📸 You can include your app's screenshots here for better presentation:
